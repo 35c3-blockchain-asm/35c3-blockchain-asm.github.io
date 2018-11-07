@@ -1,4 +1,6 @@
-# Blockchain + Crypto Currency Assmebly Code of Conduct
+# WIP [ Work In Progress ]
+
+# Crypto Currency Assmebly Code of Conduct
 
 ## 1. Purpose
 
@@ -45,8 +47,9 @@ The following behaviors are considered harassment and are unacceptable within ou
 
 ## 5. Trading Crypro Assets
 
-Trading of crypto assets is welcome. People that would like to exchange fiat and crypto assets should be adviced to:
+People that would like to exchange fiat and crypto assets should take care to:
 
+* no commercial trading, only between private entities, the assembly does not handle fiat
 * educate people about wallet software, key management and the secure verification of transactions 
 * respect and encourage privacy
 * be discreet     
