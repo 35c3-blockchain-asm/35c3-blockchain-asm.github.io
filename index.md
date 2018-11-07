@@ -1,5 +1,3 @@
-# 35C3 CRYPTO Currency Assembly / Embassy
-
 # WIP [ Work In Progress ]
 
 ### Overview
