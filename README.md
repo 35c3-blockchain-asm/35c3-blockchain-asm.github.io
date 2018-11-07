@@ -1,1 +1,5 @@
-### Collobaration Space for teh 35C3 Blockchain and Crypto Currencies Assembly
+# Website for the 35C3 Crypto currency Assembly
+
+Used to collect and provide information,   
+will probably be moved to the wiki as soon as it is up.
+
