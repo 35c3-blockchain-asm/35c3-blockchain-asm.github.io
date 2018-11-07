@@ -9,6 +9,7 @@ Let's get together and discuss, learn and educate. We are planning to have a sma
 a workshop and a get together area, if possible have a couple of technical talks and presentations.
 
 * [Code Of Conduct](code_of_conduct.md)
+* [View this site on github](https://github.com/35c3-blockchain-asm/35c3-blockchain-asm.github.io)
 
 
 ### Sub Assemblies
