@@ -14,7 +14,7 @@ a workshop and a get together area, if possible have a couple of technical talks
 
 | name | description |
 |:-----|:------------|
-| bitcoin | bitcoin / lightning / satoshi |
+| bitcoin | competence center for Bitcoin, altcoin, tokens and shitcoin |
 
 ### Schedule
 
