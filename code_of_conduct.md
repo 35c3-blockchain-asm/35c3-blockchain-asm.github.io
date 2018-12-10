@@ -30,7 +30,7 @@ The following behaviors are expected and requested of all community members:
   * Exercise consideration and respect in your speech and actions.
   * Attempt collaboration before conflict.
   * Refrain from demeaning, discriminatory, or harassing behavior and speech.
-  * Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+  * Be mindful of your surroundings and of your fellow participants. Alert the community/congress if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
   * Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
 
 ## 4. Unacceptable Behavior
@@ -58,4 +58,12 @@ People that would like to exchange fiat and crypto assets should take care to:
 * respect and encourage privacy
 * be discreet     
 
+
+## 6. How to get help 
+
+In a situation that violates your personal boundaries or any of the above-mentioned guidelines, you have following possibilities to seek out for help:
+
+* engage the community and ask actively for support
+* contact the congress awareness team [ DECT 113 ] c3-awareness@lists.ccc.de
+* for worst-case scenarios contact the ccc security team [ DECT 110 ] security@ccc.de
 
