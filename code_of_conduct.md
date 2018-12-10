@@ -10,7 +10,7 @@ title: Crypto Currency Assmebly Code of Conduct
 
 A primary goal of the Assmebly is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, religion (or lack thereof) and blockchain/crypto currency affinity.
 
-This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+This code of conduct outlines our expectations for all those who participate in our community.
 
 We invite all those who participate in the Assembly to help us create safe and positive experiences for everyone.
 
