@@ -25,18 +25,21 @@ a workshop and a get together area, if possible have a couple of technical talks
 |:---|:---|:---|:---|
 | 10:00 - 12:00 | arrival | congress opens |   |
 
+---
 2018-12-28:
 
 | time   | title | description | contact |
 |:---|:---|:---|:---|
 |    |    |    |    |
 
+---
 2018-12-29:
 
 | time   | title | description | contact |
 |:---|:---|:---|:---|
 |    |    |    |    |
 
+---
 2018-12-30:
 
 | time   | title | description | contact |
