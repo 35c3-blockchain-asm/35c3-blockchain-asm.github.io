@@ -58,8 +58,12 @@ People that would like to exchange fiat and crypto assets should take care to:
 * respect and encourage privacy
 * be discreet     
 
+## 6. Representing Corporations 
 
-## 6. How to get help 
+The CCC Congress is not a trade fair by any means, there is a strong emphasis on keeping the assembly as much as possible 
+free from marketing material and overly corporate representation. The idea is that we teach, discuss and evaluate the technology rather than just to promote it.
+
+## 7. How to get help 
 
 In a situation that violates your personal boundaries or any of the above-mentioned guidelines, you have following possibilities to seek out for help:
 
