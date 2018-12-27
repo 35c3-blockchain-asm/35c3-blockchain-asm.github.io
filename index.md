@@ -1,4 +1,3 @@
-# WIP [ Work In Progress ]
 
 ### Overview
 
