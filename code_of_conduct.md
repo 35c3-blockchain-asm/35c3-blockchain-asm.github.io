@@ -2,8 +2,6 @@
 title: Crypto Currency Assmebly Code of Conduct
 ---
 
-# WIP [ Work In Progress ]
-
 # Crypto Currency Assmebly Code of Conduct
 
 ## 1. Purpose
