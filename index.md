@@ -20,29 +20,38 @@ a workshop and a get together area, if possible have a couple of technical talks
 
 2018-12-27:
 
-| time   | title | description | contact |
-|:---|:---|:---|:---|
-| 10:00 - 12:00 | arrival | congress opens |   |
+| time          | title         | description   | contact       |
+| ------------- | ------------- | ------------- | ------------- |
+| 10:00 - 13:00 | Arrival  | congress opens / get a seat at the assemnbly / build up your project | rootzoll / DECT 3643 |
+| 15:00 - 16:00 | Daily Bitcoin/CryptoCurrency Meetup | we start everyday at 3pm to plan the day together. Drop by, say hello, show your project, announce your session. | rootzoll / DECT 3643 |
+| 16:00 - 19:00 | RaspiBlitz Workshop | build a Bitcoin & Lightning Node running on a RaspberryPi. We have some hardware kits available. | <https://github.com/rootzoll/raspiblitz> |
 
----
+-----
+
 2018-12-28:
 
-| time   | title | description | contact |
-|:---|:---|:---|:---|
-|    |    |    |    |
+| time          | title         | description   | contact       |
+| ------------- | ------------- | ------------- | ------------- |
+| 15:00 - 16:00 | Daily Bitcoin/CryptoCurrency Meetup | we start everyday at 3pm to plan the day together. Drop by, say hello, show your project, announce your session. | rootzoll / DECT 3643 |
+| 16:00 - 19:00 | RaspiBlitz Workshop | build a Bitcoin & Lightning Node running on a RaspberryPi. We have some hardware kits available. | <https://github.com/rootzoll/raspiblitz> |
 
----
+-----
+
 2018-12-29:
 
-| time   | title | description | contact |
-|:---|:---|:---|:---|
-|    |    |    |    |
+| time          | title         | description   | contact       |
+| ------------- | ------------- | ------------- | ------------- |
+| 15:00 - 16:00 | Daily Bitcoin/CryptoCurrency Meetup | we start everyday at 3pm to plan the day together. Drop by, say hello, show your project, announce your session. | rootzoll / DECT 3643 |
+| 16:00 - 19:00 | RaspiBlitz Hack & Modding | modify, extend, beautify your RaspiBlitz or Lightning Node together | <https://github.com/rootzoll/raspiblitz> |
+| 19:00 - 22:00 | Night of the Nodes | Show what you build. Share what you learned. And final beering: Connect our nodes while having a beer. | rootzoll / DECT 3643 |
 
----
+-----
+
 2018-12-30:
 
-| time   | title | description | contact |
-|:---|:---|:---|:---|
-|    |    |    |    |
+| time          | title         | description   | contact       |
+| ------------- | ------------- | ------------- | ------------- |
+| 15:00 - 16:30 | Daily Bitcoin/CryptoCurrency Meetup | we start everyday at 3pm to plan the day together. Drop by, say hello.   | rootzoll / DECT 3643 |
+| 15:30 - 16:00 | Lets plan the CCCamp 2019 together  | next year end of august is the epic CCCamp. Lets plan and brainstorm together. | rootzoll / DECT 3643 |
 
 
