@@ -18,8 +18,7 @@ a workshop and a get together area, if possible have a couple of technical talks
 
 ### Schedule
 
-#### DAY1
-2018-12-27:
+#### day 1 - 2018-12-27:
 
 | time          | title         | description   | contact       |
 | ------------- | ------------- | ------------- | ------------- |
@@ -29,8 +28,7 @@ a workshop and a get together area, if possible have a couple of technical talks
 
 -----
 
-#### DAY2
-2018-12-28:
+#### day 2 - 2018-12-28:
 
 | time          | title         | description   | contact       |
 | ------------- | ------------- | ------------- | ------------- |
@@ -39,8 +37,7 @@ a workshop and a get together area, if possible have a couple of technical talks
 
 -----
 
-#### DAY3
-2018-12-29:
+#### day 3 - 2018-12-29:
 
 | time          | title         | description   | contact       |
 | ------------- | ------------- | ------------- | ------------- |
@@ -50,8 +47,7 @@ a workshop and a get together area, if possible have a couple of technical talks
 
 -----
 
-#### DAY4
-2018-12-30:
+#### day 4 - 2018-12-30:
 
 | time          | title         | description   | contact       |
 | ------------- | ------------- | ------------- | ------------- |
